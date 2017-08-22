@@ -21,15 +21,15 @@ permalink: pretty
 # Pagination
 paginate: 2
 #paginate_path: "/page:num/"
-#archive:
-  #paginate: 10
-  #paginate_path: "/page:num/"
+archive:
+  paginate: 50
+  paginate_path: "/page:num/"
 #category:
   #paginate: 10
   #paginate_path: "/page:num/"
-#tag:
-  #paginate: 10
-  #paginate_path: "/page:num/"
+tag:
+  paginate: 10
+  paginate_path: "/page:num/"
 
 # Handling Reading
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md"]
@@ -151,8 +151,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
