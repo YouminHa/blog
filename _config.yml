@@ -122,6 +122,7 @@ menu:
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
+  search: /search.xml
   #commonweal: /404.html
 
 
